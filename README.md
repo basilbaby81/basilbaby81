@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm currently diving deep into the fascinating wor
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/basilbaby81)
-- [Email Me](ohmyalerts@gmail.com)
+- [Email Me](mailto:ohmyalerts@gmail.com)
 
 ---
 
